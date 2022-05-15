@@ -67,5 +67,26 @@ Passo 1 -No campo 'Informo o link para download', usuário não digita o link es
 Passo 2 -Clique no botão 'Iniciar Download'.
   
 Passo 3 -Resultado esperado: Uma mensagem exibindo "Favor informar URL obrigado', 'Preenchimento obrigatório".
+  
+  
+Testes de estilo de codificação:
+ As convenções de estilo de codificação são usadas em alguns de exemplo para ajudar na clareza e consistência. As convenções de notação "húngaras" são usadas. Elas se tornaram uma prática de codificação comum na programação do Win32. Elas incluem notações de prefixo variável que dão a nomes de variáveis uma sugestão do tipo da variável. 
+  
+  
+Exemplificando:Algumas Etapas Testes de estilo de codificação:  
+  
+ Passo 1 - Nome Declaração de Unidade - <uModelViewTelaLogDownload> 
+  
+ Passo 2 - Nome função - <fValidarParametro> 
+  
+ Passo 3 - Nome variável - <dDataInicio>  
+  
+ Passo 4 - Nome Formulário - <frmViewTelaLogDownload> 
+  
+ Passo 5 - Nome Procedimento - <pIncluirCadViewLogDownload> 
+  
+  
+  
+  
 
 
