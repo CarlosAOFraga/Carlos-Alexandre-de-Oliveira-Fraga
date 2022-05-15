@@ -77,13 +77,13 @@ Exemplificando:Algumas Etapas Testes de estilo de codificação:
   
  Passo 1 - Nome Declaração de Unidade <uModelViewTelaLogDownload> 
   
- Passo 2 - Nome função <fValidarParametro> 
+ Passo 2 - Nome função "fValidarParametro" 
   
- Passo 3 - Nome variável <dDataInicio>  
+ Passo 3 - Nome variável "dDataInicio"  
   
- Passo 4 - Nome Formulário <frmViewTelaLogDownload> 
+ Passo 4 - Nome Formulário "frmViewTelaLogDownload" 
   
- Passo 5 - Nome Procedimento <pIncluirCadViewLogDownload> 
+ Passo 5 - Nome Procedimento "pIncluirCadViewLogDownload" 
   
   
   
