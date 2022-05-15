@@ -12,6 +12,7 @@ O SQLite, por seu tamanho mínimo, está disponível em vários sistemas operaci
 Instalação Banco de Dados DB.Browser.for.SQLite-3.12.2-win64
 
 
+
 Download SQLite :https://www.npackd.org/p/org.sqlitebrowser.sqlitebrowser/3.12.2
 
 
@@ -33,6 +34,7 @@ Passo 6 − Janela de Instalação SQLite , clicar no botão <NEXT> até o final
 
 Passo 7 − Finalizado a Instalação é disponibilizado na aréa de trabalho do Windows ícone "DB Browser (SQLite)", para acessar o Banco de Dados. 
   
+
   
 Executando Banco de Dados:
 
@@ -51,7 +53,18 @@ Passo 4 - Disponibiliza janela Escolha nome e diretório para salvar Banco de Da
 Passo 5 - Fim Banco de Dados Criado. 
   
   
+Executando os testes do Sistema de Download de Arquivo:
+  
+Os testes do software são executados, usando os procedimentos e documentos de script de teste. Para que a fase de execução de teste, seja realizada com sucesso.
   
   
+Exemplificando:Etapas de teste:
+
+Sistema de Download de Arquivo:
   
+No campo 'Informo o link para download', usuário não digita o link esperado deixa o campo vázio.
+Clique no botão 'Iniciar Download'.
+
+Resultado esperado: Uma mensagem exibindo "Favor informar URL obrigado', 'Preenchimento obrigatório".
+
 
