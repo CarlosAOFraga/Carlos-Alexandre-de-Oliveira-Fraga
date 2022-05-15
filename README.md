@@ -4,6 +4,7 @@ Projeto para baixar e Armazenar Arquivo de Download
 Utilizar serviços de armazenamento de arquivos online através de um link e disponibiliza em diretório local ou compartilhada.
 
 
+
 Pré-requisitos
 
 O SQLite, por seu tamanho mínimo, está disponível em vários sistemas operacionais e também, acoplado em várias linguagens de programação por padrão.
@@ -11,6 +12,7 @@ O SQLite, por seu tamanho mínimo, está disponível em vários sistemas operaci
 Instalação Banco de Dados DB.Browser.for.SQLite-3.12.2-win64
 
 Download SQLite :https://www.npackd.org/p/org.sqlitebrowser.sqlitebrowser/3.12.2
+
 
 
 Instalar o SQLite no Windows
