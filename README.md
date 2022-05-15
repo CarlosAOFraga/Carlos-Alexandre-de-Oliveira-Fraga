@@ -97,11 +97,14 @@ Passo 3 - DB Browser for SQLite.3.12.2 win64
 Versão do Sistema de Download de Arquivo:
 
 Passo 1 - Versão 1.0 -( Atualizado em 15/05/2022)
+ 
   
   
   
-Desenvonvedor:Carlos Alexandre de Oliveira Fraga
-e-Mail:cfraga03@yahoo.com.br
+Desenvonvedor: Carlos Alexandre de Oliveira Fraga
+e-Mail: cfraga03@yahoo.com.br
+  
+  
   
 Agradecimentos
   
