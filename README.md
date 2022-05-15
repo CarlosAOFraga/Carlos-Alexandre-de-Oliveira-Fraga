@@ -95,5 +95,5 @@ Desenvonvedor:Carlos Alexandre de Oliveira Fraga
 e-Mail:cfraga03@yahoo.com.br
   
 Agradecimentos:
-A Deus pela iluminação divina, Softplan pela oportunidade e minha esposa minha grande companheira.
+A Deus pela iluminação divina, Softplan por me selecionar para participar do processo seletivo para a vaga de Desenvolvedor Delphi e minha esposa minha grande companheira.
 
