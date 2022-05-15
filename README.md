@@ -63,7 +63,9 @@ Exemplificando:Etapas de teste:
 Sistema de Download de Arquivo:
   
 Passo 1 -No campo 'Informo o link para download', usuário não digita o link esperado deixa o campo vázio.
+  
 Passo 2 -Clique no botão 'Iniciar Download'.
+  
 Passo 3 -Resultado esperado: Uma mensagem exibindo "Favor informar URL obrigado', 'Preenchimento obrigatório".
 
 
