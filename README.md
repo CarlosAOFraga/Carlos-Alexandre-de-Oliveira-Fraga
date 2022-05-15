@@ -11,6 +11,7 @@ O SQLite, por seu tamanho mínimo, está disponível em vários sistemas operaci
 
 Instalação Banco de Dados DB.Browser.for.SQLite-3.12.2-win64
 
+
 Download SQLite :https://www.npackd.org/p/org.sqlitebrowser.sqlitebrowser/3.12.2
 
 
@@ -22,14 +23,15 @@ Passo 1 − Vá para a página de download do SQLite e baixe binários pré-comp
 
 Passo 2 − Baixe arquivos com zíper sqlite-shell-win32-*.zip e sqlite-dll-win32-*.zip arquivos com zíper.
 
-Passo 3 − Crie uma pasta C:\>sqlite e descompacte acima de dois arquivos com zíper nesta pasta, o que lhe dará arquivos sqlite3.def, sqlite3.dll e sqlite3.exe.
+Passo 3 − Crie uma pasta C:\>sqlite e descompacte acima o arquivo zíper nesta pasta, o que lhe dará o arquivo DB.Browser.for.SQLite-3.12.2-win64.exe.
 
-Passo 4 − Adicione C:\>sqlite na variável ambiente PATH e, finalmente, vá para o prompt de comando e emita o comando sqlite3, que deve exibir o seguinte resultado.
+Passo 4 − Duplo clique no arquivo DB.Browser.for.SQLite-3.12.2-win64.exe.
+
+Passo 5 − Disponibiliza janela de Instalação SQLite.
+
+Passo 6 − Janela de Instalação SQLite , clicar no botão <NEXT> até o final da instalação padão para todas as telas de instalação.
+
+Passo 7 − Finalizado a Instalação é disponibilizado na aréa de trabalho do Windows ícone "DB Browser (SQLite)", para acessar o Banco de Dados. 
 
 
-C:\>sqlite3
-SQLite version 3.7.15.2 2013-01-09 11:53:05
-Enter ".help" for instructions
-Enter SQL statements terminated with a ";"
-sqlite>
 
