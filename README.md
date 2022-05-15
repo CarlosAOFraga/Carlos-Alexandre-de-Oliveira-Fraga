@@ -5,7 +5,7 @@ Utilizar serviços de armazenamento de arquivos online através de um link e dis
 
 
 
-Pré-requisitos
+Pré-requisitos:
 
 O SQLite, por seu tamanho mínimo, está disponível em vários sistemas operacionais e também, acoplado em várias linguagens de programação por padrão.
 
@@ -16,7 +16,7 @@ Download SQLite :https://www.npackd.org/p/org.sqlitebrowser.sqlitebrowser/3.12.2
 
 
 
-Instalar o SQLite no Windows
+Instalar o SQLite no Windows:
 
 
 Passo 1 − Vá para a página de download do SQLite e baixe binários pré-compensados da seção Windows.
@@ -32,6 +32,20 @@ Passo 5 − Disponibiliza janela de Instalação SQLite.
 Passo 6 − Janela de Instalação SQLite , clicar no botão <NEXT> até o final da instalação padão para todas as telas de instalação.
 
 Passo 7 − Finalizado a Instalação é disponibilizado na aréa de trabalho do Windows ícone "DB Browser (SQLite)", para acessar o Banco de Dados. 
+  
+  
+Executando Banco de Dados:
 
-
+Criar Banco de Dados:
+  
+Exemplificando:
+  
+Passo 1 - Criar Diretério do Banco de Dados.
+  
+Passo 2 - Abrir o Banco de Dados, duplo clique no ícone "DB Browser (SQLite)". 
+  
+  
+  
+  
+  
 
