@@ -87,13 +87,19 @@ Exemplificando:Algumas Etapas Testes de estilo de codificação:
   
   
 Ferramentas utilizadas no desenvolvimento projeto de dowload de arquivo:
+  
 Passo 1 - Windows 10 Home Single Language
+  
 Passo 2 - Delphi 10.4 Community Edition (licença Estudante) 
+  
 Passo 3 - DB Browser for SQLite.3.12.2 win64 
   
+  
 Desenvonvedor:Carlos Alexandre de Oliveira Fraga
+
 e-Mail:cfraga03@yahoo.com.br
   
 Agradecimentos:
+  
 A Deus pela iluminação divina, Softplan por me selecionar para participar do processo seletivo para a vaga de Desenvolvedor Delphi e minha esposa minha grande companheira.
 
