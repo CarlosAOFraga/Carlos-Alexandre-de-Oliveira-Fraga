@@ -57,9 +57,7 @@ Passo 5 - Fim Banco de Dados Criado.
 Executando os testes do Sistema de Download de Arquivo:
   
 Os testes do software são executados, usando os procedimentos e documentos de script de teste. Para que a fase de execução de teste, seja realizada com sucesso.
-  
- 
-  
+   
 Exemplificando:Etapas de teste:
 
 Sistema de Download de Arquivo:
