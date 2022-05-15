@@ -5,6 +5,7 @@ Utilizar serviços de armazenamento de arquivos online através de um link e dis
 
 
 Pré-requisitos
+
 O SQLite, por seu tamanho mínimo, está disponível em vários sistemas operacionais e também, acoplado em várias linguagens de programação por padrão.
 
 Instalação Banco de Dados DB.Browser.for.SQLite-3.12.2-win64
