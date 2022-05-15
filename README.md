@@ -25,7 +25,7 @@ Passo 2 − Baixe arquivos com zíper sqlite-shell-win32-*.zip e sqlite-dll-win3
 
 Passo 3 − Crie uma pasta C:\>sqlite e descompacte acima o arquivo zíper nesta pasta, o que lhe dará o arquivo DB.Browser.for.SQLite-3.12.2-win64.exe.
 
-Passo 4 − Duplo clique no arquivo DB.Browser.for.SQLite-3.12.2-win64.exe.
+Passo 4 − duplo clique no arquivo DB.Browser.for.SQLite-3.12.2-win64.exe.
 
 Passo 5 − Disponibiliza janela de Instalação SQLite.
 
@@ -43,6 +43,12 @@ Exemplificando:
 Passo 1 - Criar Diretério do Banco de Dados.
   
 Passo 2 - Abrir o Banco de Dados, duplo clique no ícone "DB Browser (SQLite)". 
+
+Passo 3 - duplo clique Menu <Novo Banco de Dados>.
+  
+Passo 4 - Disponibiliza janela Escolha nome e diretório para salvar Banco de Dados.
+  
+Passo 5 - Fim Banco de Dados Criado. 
   
   
   
