@@ -42,15 +42,19 @@ Criar Banco de Dados:
   
 Exemplificando:
   
-Passo 1 - Criar Diretério do Banco de Dados.
+Passo 1 - Criar Diretério prícipal nome "Sistemas".
   
-Passo 2 - Abrir o Banco de Dados, duplo clique no ícone "DB Browser (SQLite)". 
+Passo 2 - Criar Sub Diretério do Banco de Dados nome "Banco.Dados" no diretório "Sistemas".
+  
+Passo 3 - Criar Sub Diretério do Arquivo download no diretório "Sistemas" nome "Arquivos.Download".  
+  
+Passo 4 - Abrir o Banco de Dados, duplo clique no ícone "DB Browser (SQLite)". 
 
-Passo 3 - duplo clique Menu <Novo Banco de Dados>.
+Passo 5 - duplo clique Menu <Novo Banco de Dados>.
   
-Passo 4 - Disponibiliza janela Escolha nome e diretório para salvar Banco de Dados.
+Passo 6 - Disponibiliza janela Escolha nome e diretório para salvar Banco de Dados.
   
-Passo 5 - Fim Banco de Dados Criado. 
+Passo 7 - Fim Banco de Dados Criado. 
   
   
   
